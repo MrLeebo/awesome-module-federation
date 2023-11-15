@@ -32,6 +32,7 @@
 
 Additional packages that can enhance your module federation implementation
 
+- [vite-plugin-federation](https://github.com/originjs/vite-plugin-federation)
 - [native-federation-typescript](https://github.com/module-federation/universe/tree/main/packages/native-federation-typescript)
 - [react-singleton-context](https://github.com/indeedeng/react-singleton-context)
 
