@@ -21,6 +21,7 @@
 ## Blogs
 
 - [Understanding Webpack Module Federation: A Deep Dive](https://medium.com/@scriptedalchemy/understanding-webpack-module-federation-a-deep-dive-efe5c55bf366)
+- [Micro-FEs Simplified](https://medium.com/gitconnected/micro-fes-simplified-361dff983c27)
 
 ## Videos
 
