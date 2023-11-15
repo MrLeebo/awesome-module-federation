@@ -8,6 +8,7 @@
 - [Git Repositories](#git-repositories)
 - [Blogs](#blogs)
 - [Videos](#videos)
+- [Plugins](#plugins)
 
 ## Documentation
 
@@ -25,6 +26,13 @@
 
 - [Micro-Frontends in Just 10 minutes](https://www.youtube.com/watch?v=s_Fs4AXsTnA&list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1&index=5)
 - [Module Federation - Shared App Shell, State, Routing and Components](https://www.youtube.com/watch?v=-LNcpralkjM)
+
+## Plugins
+
+Additional packages that can enhance your module federation implementation
+
+- [native-federation-typescript](https://github.com/module-federation/universe/tree/main/packages/native-federation-typescript)
+- [react-singleton-context](https://github.com/indeedeng/react-singleton-context)
 
 ## Contribute
 
