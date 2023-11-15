@@ -2,28 +2,29 @@
 
 > A curated list of resources about learning and using module federation in webpack
 
-
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
+- [Documentation](#documentation)
+- [Git Repositories](#git-repositories)
+- [Blogs](#blogs)
+- [Videos](#videos)
 
+## Documentation
 
-## Section
+- [Module Federation Docs](https://webpack.js.org/concepts/module-federation/)
 
-About this section. Optional. Keep this short and focus on the list.
+## Git Repositories
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Module Federation Examples](https://github.com/module-federation/module-federation-examples)
 
+## Blogs
 
-## Another Section
+- [Understanding Webpack Module Federation: A Deep Dive](https://medium.com/@scriptedalchemy/understanding-webpack-module-federation-a-deep-dive-efe5c55bf366)
 
-### Subsection
+## Videos
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+- [Micro-Frontends in Just 10 minutes](https://www.youtube.com/watch?v=s_Fs4AXsTnA&list=PLNqp92_EXZBLr7p7hn6IYa1YPNs4yJ1t1&index=5)
+- [Module Federation - Shared App Shell, State, Routing and Components](https://www.youtube.com/watch?v=-LNcpralkjM)
 
 ## Contribute
 
