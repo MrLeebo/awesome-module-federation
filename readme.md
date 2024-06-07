@@ -12,6 +12,7 @@
 
 ## Documentation
 
+- [Module Federation 2.0 Announcement](https://module-federation.io/blog/announcement.html)
 - [Module Federation Docs](https://webpack.js.org/concepts/module-federation/)
 
 ## Git Repositories
